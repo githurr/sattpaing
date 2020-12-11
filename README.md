@@ -1,2 +1,0 @@
-# sattpaing
-Sattpaing.tool
